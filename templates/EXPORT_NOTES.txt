@@ -1,0 +1,5 @@
+EXPORT NOTES
+
+All assets are 1:1 and Telegram-ready.
+Upload as images or files to avoid compression.
+Motion prompts are text only.
